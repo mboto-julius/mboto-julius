@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, PHP, LARAVEL**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP 5, PHP, LARAVEL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
