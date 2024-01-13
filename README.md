@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mboto-julius&label=Profile%20views&color=0e75b6&style=flat" alt="mboto-julius" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Vue JS**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP 5, PHP, LARAVEL**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP 5, PHP, LARAVEL, GIT, GITHUB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
